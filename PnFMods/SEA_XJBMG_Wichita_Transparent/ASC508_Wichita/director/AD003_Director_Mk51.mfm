@@ -1,0 +1,17 @@
+<AD003_Director_Mk51.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/director/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/director/AD003_Director_Mk51_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/director/AD003_Director_Mk51_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/director/AD003_Director_Mk51_n.dds	</Texture>
+	</property>
+</AD003_Director_Mk51.mfm>

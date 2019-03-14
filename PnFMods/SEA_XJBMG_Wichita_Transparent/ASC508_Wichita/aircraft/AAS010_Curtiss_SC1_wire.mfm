@@ -1,0 +1,14 @@
+<AAS010_Curtiss_SC1_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/aircraft/AAS010_Curtiss_SC1_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/aircraft/AAS010_Curtiss_SC1_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/aircraft/AAS010_Curtiss_SC1_n.dds	</Texture>
+	</property>
+</AAS010_Curtiss_SC1_wire.mfm>

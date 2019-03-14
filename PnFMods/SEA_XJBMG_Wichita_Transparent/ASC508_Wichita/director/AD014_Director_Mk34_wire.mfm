@@ -1,0 +1,14 @@
+<AD014_Director_Mk34_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/director/AD014_Director_Mk34_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/director/AD014_Director_Mk34_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/director/AD014_Director_Mk34_mg.dds	</Texture>
+	</property>
+</AD014_Director_Mk34_wire.mfm>

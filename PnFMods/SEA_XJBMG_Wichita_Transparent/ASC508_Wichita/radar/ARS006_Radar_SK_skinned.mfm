@@ -1,0 +1,17 @@
+<ARS006_Radar_SK_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/ARS006_Radar_SK_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/ARS006_Radar_SK_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/ARS006_Radar_SK_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/default_ao.dds	</Texture>
+	</property>
+</ARS006_Radar_SK_skinned.mfm>
