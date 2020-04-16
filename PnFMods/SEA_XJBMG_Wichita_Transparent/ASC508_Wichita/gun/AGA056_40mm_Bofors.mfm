@@ -9,7 +9,7 @@
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA056_40mm_Bofors_mg.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA056_40mm_Bofors_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/textures/default_a_512.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/default_ao.dds	</Texture>

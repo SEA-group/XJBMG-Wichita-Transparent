@@ -9,7 +9,7 @@
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/catapult/default_ao.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/catapult/AC002_Catapult_2_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/textures/default_a_1024_512.dds	</Texture>
 	</property>
 	<property>	normalMap
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/catapult/AC002_Catapult_2_n.dds	</Texture>

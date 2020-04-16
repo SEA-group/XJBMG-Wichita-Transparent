@@ -6,7 +6,7 @@
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/ARS033_Radar_SF_mg.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/ARS033_Radar_SF_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/textures/default_a_128.dds	</Texture>
 	</property>
 	<property>	normalMap
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/ARS033_Radar_SF_n.dds	</Texture>

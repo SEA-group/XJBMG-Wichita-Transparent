@@ -3,7 +3,7 @@
 	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA002_40mm_Bofors_Mk1_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/textures/default_a_256.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA002_40mm_Bofors_Mk1_mg.dds	</Texture>

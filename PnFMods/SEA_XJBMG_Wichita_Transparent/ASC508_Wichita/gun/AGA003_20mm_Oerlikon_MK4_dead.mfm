@@ -6,7 +6,7 @@
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA003_20mm_Oerlikon_MK4_dead_n.dds	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA003_20mm_Oerlikon_MK4_dead_a.dds	</Texture>
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/textures/default_a_256.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/default_ao.dds	</Texture>
