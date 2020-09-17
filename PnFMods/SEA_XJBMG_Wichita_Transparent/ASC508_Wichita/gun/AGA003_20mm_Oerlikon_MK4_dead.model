@@ -1,7 +1,7 @@
 <AGA003_20mm_Oerlikon_MK4_dead.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA003_20mm_Oerlikon_MK4_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/lods/AGA003_20mm_Oerlikon_MK4_dead_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.047512 0.000081 -0.056720	</min>

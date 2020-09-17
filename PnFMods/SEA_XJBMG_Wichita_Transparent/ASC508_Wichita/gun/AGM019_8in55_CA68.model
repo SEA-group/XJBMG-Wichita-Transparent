@@ -1,6 +1,6 @@
 <AGM019_8in55_CA68.model>
 	<extent>	5.0000	</extent>
-	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGM019_8in55_CA68_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/lods/AGM019_8in55_CA68_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>
