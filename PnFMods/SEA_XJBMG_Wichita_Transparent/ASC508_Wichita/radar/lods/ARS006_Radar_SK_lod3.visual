@@ -66,7 +66,7 @@
 			<primitive>	RadarSK_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/ARS006_Radar_SK_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

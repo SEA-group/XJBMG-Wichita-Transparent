@@ -29,7 +29,7 @@
 			<primitive>	Turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGS174_5in38_Mk24_Mod11_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

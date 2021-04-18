@@ -122,7 +122,7 @@
 			<primitive>	Turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGS174_5in38_Mk24_Mod11_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -47,7 +47,7 @@
 			<primitive>	Bofors_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA056_40mm_Bofors.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -61,7 +61,7 @@
 			<primitive>	Bofors_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Misc	</identifier>
+					<identifier>	SHIPWIREX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGA056_40mm_Bofors_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

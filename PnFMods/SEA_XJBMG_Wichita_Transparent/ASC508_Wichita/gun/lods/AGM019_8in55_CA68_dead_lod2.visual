@@ -29,7 +29,7 @@
 			<primitive>	AGM019_8in55_CA068_dead_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGM019_8in55_CA68_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

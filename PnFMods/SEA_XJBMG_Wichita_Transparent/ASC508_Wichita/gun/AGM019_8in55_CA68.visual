@@ -177,7 +177,7 @@
 			<primitive>	AGM019_8in55_CA068Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/gun/AGM019_8in55_CA68_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

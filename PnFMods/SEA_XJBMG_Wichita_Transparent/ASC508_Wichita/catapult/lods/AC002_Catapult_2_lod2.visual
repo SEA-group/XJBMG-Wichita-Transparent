@@ -137,7 +137,7 @@
 			<primitive>	catapult_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/catapult/AC002_Catapult_2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -151,7 +151,7 @@
 			<primitive>	Cradle1_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/catapult/AC002_Catapult_2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -165,7 +165,7 @@
 			<primitive>	Cradle2_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/catapult/AC002_Catapult_2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

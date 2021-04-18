@@ -29,7 +29,7 @@
 			<primitive>	ARS033_Radar_SF_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/radar/ARS033_Radar_SF.mfm	</mfm>
 				</material>
 			</primitiveGroup>

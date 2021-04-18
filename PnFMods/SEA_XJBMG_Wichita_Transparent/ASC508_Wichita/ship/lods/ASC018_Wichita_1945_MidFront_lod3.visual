@@ -101,7 +101,7 @@
 			<primitive>	MidFront_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/ship/ASC018_Wichita_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -115,7 +115,7 @@
 			<primitive>	MidFront_crack_Bow_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/ship/ASC018_Wichita_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -129,7 +129,7 @@
 			<primitive>	MidFront_crack_Bow_in_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -157,7 +157,7 @@
 			<primitive>	MidFront_wire_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/ship/ASC018_Wichita_1945_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -171,7 +171,7 @@
 			<primitive>	MidFront_crack_MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/ship/ASC018_Wichita_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -185,7 +185,7 @@
 			<primitive>	MidFront_crack_MidBack_in_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -199,7 +199,7 @@
 			<primitive>	MidFront_patch_MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/ship/ASC018_Wichita_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -213,7 +213,7 @@
 			<primitive>	MidFront_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent/ASC508_Wichita/ship/ASC018_Wichita_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
